@@ -28,5 +28,5 @@ public class AgendaController implements Serializable {
      */
     public AgendaController() {
     
-    
+    }
 }
